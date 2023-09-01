@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to right, #ff512f, #f09819);
+}
+nav{
+    font-size: 18px;
+}
+footer {
+    text-align: center;
+    padding: 5px;
+    color: #000;
+    font-size: 18px;
+}
+.topleft{
+    width: 50%;
+}
+
+.topright{ 
+    width: 50%;
+}
+.topright .gym-boy{
+    width: 400px;
+}
+
+.section1{
+   max-height: 100vh; 
+   color: #711e15;
+}
+
+.section1 h1{
+    color: #37110d;
+    font-size: 2rem;
+}
+.logo{
+    width: 89px;
+}
+.section2{
+    padding-top: 20px;
+}
+.section2 h1{
+    font-size: 40px;
+}
+.card-body{
+    background-color: #FF9B50;
+}
+.card-header{
+    background-color: #FF9B50;
+}
+.free{
+    height: 550px;
+    width: 1000px;
+    margin-left: 60px;
+}
+.enterp{
+    background-color: #ff512f;
+    height: 60px;
+    padding: 10px;
+}
+button.btn{
+    background-color: #ff512f;
+}
+button.btn:hover{
+    background-color: #f09819;
+}
+.buttons{
+    gap: 2rem;
+}
+.mnth{
+    font-size: 25px;
+}
+h1.price{
+    font-size: 30px;
+}
+h1.display-4{
+    font-size: 38px;
+}
+.section3 table{
+    width: 100%;
+    margin-bottom: 140px;
+    margin-top: 20px;
+    border-collapse: collapse;
+    border: 1px solid rgb(223, 148, 36);
+}
+
+.section3 table th{ 
+    width: 23vw; 
+    /* border-bottom: 1px solid black; */
+    padding: 15px 0;
+    padding-left: 15px;
+    background-color: #FF9B50;
+} 
+
+.section3 table td{   
+    /* border-bottom: 1px solid black;  */
+    background-color: #FF9B50;
+} 
+ 
+
+.section3 h1{
+    font-size: 2.3rem;
+}
+.section3{
+    padding: 10px;
+    margin-bottom: 0;
+}
+.deal{
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin: 12px 0;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 12px;
+}
